@@ -12,12 +12,25 @@
       "iconURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/icon.png",
       "tintColor": "C25B3A",
       "category": "lifestyle",
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/01-main-light.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/02-main-dark.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/03-history-light.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/04-history-dark.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/05-date-light.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/06-date-dark.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/07-stats1-light.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/08-stats1-dark.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/09-stats2-light.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/10-stats2-dark.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/11-settings-light.png",
+        "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/12-settings-dark.png"
+      ],
       "versions": [
         {
           "version": "1.4.1",
           "date": "2026-10-08",
-          "localizedDescription": "Release Release-v1.4.1.",
+          "localizedDescription": "AltStore install button in the README, and long button labels no longer overflow.",
           "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.1/latest.ipa",
           "size": 15400869,
           "sha256": "3de2d61f4ecb616ecc7eadfcefbf9d041f359ad2c2d014e2acaf4e6947633854",
@@ -35,9 +48,25 @@
       ],
       "version": "1.4.1",
       "versionDate": "2026-10-08",
-      "versionDescription": "Release Release-v1.4.1.",
+      "versionDescription": "AltStore install button in the README, and long button labels no longer overflow.",
       "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.1/latest.ipa",
-      "size": 15400869
+      "size": 15400869,
+      "screenshots": {
+        "iphone": [
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/01-main-light.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/02-main-dark.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/03-history-light.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/04-history-dark.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/05-date-light.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/06-date-dark.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/07-stats1-light.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/08-stats1-dark.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/09-stats2-light.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/10-stats2-dark.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/11-settings-light.png",
+          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/12-settings-dark.png"
+        ]
+      }
     }
   ],
   "news": []
