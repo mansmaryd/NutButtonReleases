@@ -1,0 +1,35 @@
+{
+  "name": "Nut Button",
+  "identifier": "LPQvist.BetterNutButton.source",
+  "subtitle": "Track your NUTs",
+  "apps": [
+    {
+      "name": "Nut Button",
+      "bundleIdentifier": "LPQvist.BetterNutButton",
+      "developerName": "Liam Palmqvist",
+      "subtitle": "A National Underlying Tracer tracker",
+      "localizedDescription": "Track NUTs and when they happen, see them on a GitHub style heatmap, and dig into the stats.",
+      "iconURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/icon.png",
+      "tintColor": "C25B3A",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.4",
+          "date": "2026-10-08",
+          "localizedDescription": "Heatmap year fixes, stats fixes, real version display, and a test suite.",
+          "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4/latest.ipa",
+          "size": 15400066,
+          "sha256": "0454d55818127c13f49fc4b5d415b483ba6795b7d09e210a786e775c2b7b286d",
+          "minOSVersion": "17.5"
+        }
+      ],
+      "version": "1.4",
+      "versionDate": "2026-10-08",
+      "versionDescription": "Heatmap year fixes, stats fixes, real version display, and a test suite.",
+      "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4/latest.ipa",
+      "size": 15400066
+    }
+  ],
+  "news": []
+}
