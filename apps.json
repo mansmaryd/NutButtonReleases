@@ -53,18 +53,66 @@
       "size": 15400869,
       "screenshots": {
         "iphone": [
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/01-main-light.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/02-main-dark.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/03-history-light.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/04-history-dark.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/05-date-light.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/06-date-dark.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/07-stats1-light.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/08-stats1-dark.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/09-stats2-light.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/10-stats2-dark.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/11-settings-light.png",
-          "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/12-settings-dark.png"
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/01-main-light.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/02-main-dark.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/03-history-light.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/04-history-dark.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/05-date-light.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/06-date-dark.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/07-stats1-light.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/08-stats1-dark.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/09-stats2-light.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/10-stats2-dark.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/11-settings-light.png",
+            "width": 828,
+            "height": 1792
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/screenshots/12-settings-dark.png",
+            "width": 828,
+            "height": 1792
+          }
         ]
       }
     }
