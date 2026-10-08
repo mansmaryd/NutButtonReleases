@@ -2,17 +2,15 @@
 
 Public download mirror for the Nut Button iOS app. Builds only, no source.
 
-## Install with AltStore
+## Install
 
-Add this source in AltStore (Browse, then **+**):
+<a href="https://altdirect.app/?url=https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/apps.json&r=altstore" target="_blank"><img src="https://altdirect.app/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200"></a>
+&nbsp;
+<a href="https://github.com/mansmaryd/NutButtonReleases/releases/latest/download/latest.ipa" target="_blank"><img src="https://altdirect.app/assets/png/Download_Blue.png" alt="Download .ipa" width="200"></a>
 
-```
-https://raw.githubusercontent.com/mansmaryd/NutButtonReleases/main/apps.json
-```
-
-AltStore will then offer each new release as it is published.
-
-Or grab the file directly: [latest.ipa](https://github.com/mansmaryd/NutButtonReleases/releases/latest/download/latest.ipa)
+Tap **Add AltSource** on your iPhone and AltStore opens with the source ready to
+add, then offers every new release automatically. Targets AltStore Classic, not
+the EU PAL build.
 
 ## What is here
 
