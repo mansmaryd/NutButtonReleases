@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.1",
+          "date": "2026-10-08",
+          "localizedDescription": "Release Release-v1.4.1.",
+          "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.1/latest.ipa",
+          "size": 15400869,
+          "sha256": "3de2d61f4ecb616ecc7eadfcefbf9d041f359ad2c2d014e2acaf4e6947633854",
+          "minOSVersion": "17.5"
+        },
+        {
           "version": "1.4",
           "date": "2026-10-08",
           "localizedDescription": "Heatmap year fixes, stats fixes, real version display, and a test suite.",
@@ -24,11 +33,11 @@
           "minOSVersion": "17.5"
         }
       ],
-      "version": "1.4",
+      "version": "1.4.1",
       "versionDate": "2026-10-08",
-      "versionDescription": "Heatmap year fixes, stats fixes, real version display, and a test suite.",
-      "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4/latest.ipa",
-      "size": 15400066
+      "versionDescription": "Release Release-v1.4.1.",
+      "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.1/latest.ipa",
+      "size": 15400869
     }
   ],
   "news": []
