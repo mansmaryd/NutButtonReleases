@@ -28,6 +28,15 @@
       ],
       "versions": [
         {
+          "version": "1.4.2",
+          "date": "2026-10-08",
+          "localizedDescription": "Release Release-v1.4.2.",
+          "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.2/latest.ipa",
+          "size": 15403451,
+          "sha256": "4e0cc6966d10bf81ed7892e3c7dd294581d033d25d70e49e5429eb206fc32f4d",
+          "minOSVersion": "17.5"
+        },
+        {
           "version": "1.4.1",
           "date": "2026-10-08",
           "localizedDescription": "AltStore install button in the README, and long button labels no longer overflow.",
@@ -46,11 +55,11 @@
           "minOSVersion": "17.5"
         }
       ],
-      "version": "1.4.1",
+      "version": "1.4.2",
       "versionDate": "2026-10-08",
-      "versionDescription": "AltStore install button in the README, and long button labels no longer overflow.",
-      "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.1/latest.ipa",
-      "size": 15400869,
+      "versionDescription": "Release Release-v1.4.2.",
+      "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.2/latest.ipa",
+      "size": 15403451,
       "screenshots": {
         "iphone": [
           {
