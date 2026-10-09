@@ -28,6 +28,15 @@
       ],
       "versions": [
         {
+          "version": "1.4.3",
+          "date": "2026-10-09",
+          "localizedDescription": "Release Release-v1.4.3.",
+          "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.3/latest.ipa",
+          "size": 15405464,
+          "sha256": "639c17b287dce33189c9e3321b4b61e1352485d90b063ffaa0da3b9d27fdbe29",
+          "minOSVersion": "17.5"
+        },
+        {
           "version": "1.4.2",
           "date": "2026-10-08",
           "localizedDescription": "Release Release-v1.4.2.",
@@ -55,11 +64,11 @@
           "minOSVersion": "17.5"
         }
       ],
-      "version": "1.4.2",
-      "versionDate": "2026-10-08",
-      "versionDescription": "Release Release-v1.4.2.",
-      "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.2/latest.ipa",
-      "size": 15403451,
+      "version": "1.4.3",
+      "versionDate": "2026-10-09",
+      "versionDescription": "Release Release-v1.4.3.",
+      "downloadURL": "https://github.com/mansmaryd/NutButtonReleases/releases/download/Release-v1.4.3/latest.ipa",
+      "size": 15405464,
       "screenshots": {
         "iphone": [
           {
